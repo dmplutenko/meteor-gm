@@ -3,7 +3,7 @@
     "description": "Meteor smart package for GraphicsMagick node.js",
     "homepage": "https://github.com/dmplutenko/meteor-gm",
     "author": "dmplutenko",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "git": "https://github.com/dmplutenko/meteor-gm.git"
 } 
 

@@ -1,0 +1,8 @@
+{
+    "name": "gm",
+    "description": "gm for meteor",
+    "homepage": "https://github.com/dmplutenko/meteor-gm",
+    "author": "dmplutenko",
+    "version": "0.0.1",
+    "git": "https://github.com/dmplutenko/meteor-gm.git"
+} 

@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Meteor smart package for gm node.js"
+  summary: "Meteor smart package for GraphicsMagick node.js"
 });
 
 Package.on_use(function (api) {

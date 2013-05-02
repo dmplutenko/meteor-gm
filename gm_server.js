@@ -57,5 +57,4 @@ GM =(function(){
   }
   
   return installNodeJsPackage('gm', 'gm');
-}) 
-//AWS =installNodeJsPackageInDir('aws-sdk-js', 'aws-sdk-js');
+}).()

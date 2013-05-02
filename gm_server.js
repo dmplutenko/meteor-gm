@@ -57,4 +57,4 @@ GM =(function(){
   }
   
   return installNodeJsPackage('gm', 'gm');
-}).()
+})();

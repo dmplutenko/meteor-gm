@@ -3,4 +3,4 @@ meteor-aws-sdk-js
 
 gm for meteor
 
-for 0.5.9 version
+tested on 0.5.9, 0.6.x meteor versions

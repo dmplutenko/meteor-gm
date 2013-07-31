@@ -3,7 +3,6 @@ GM = (function(meteorPackage,nodePackage){
     nodePackage=meteorPackage;
   }
   var require;
-  console.log("hello");
   if( (typeof Npm!=="object")&&(typeof Npm!=="function") ){
     require=__meteor_bootstrap__.require;
   }else if(typeof Npm.require == "function"){

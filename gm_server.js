@@ -1,4 +1,4 @@
-GM = (function(meteorPackage,nodePackage){
+Meteor.GM = (function(meteorPackage,nodePackage){
   if (nodePackage===undefined){
     nodePackage=meteorPackage;
   }

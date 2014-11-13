@@ -1,6 +1,4 @@
-meteor-aws-sdk-js
-=================
+DEPRECATION
+===========
 
-gm for meteor
-
-tested on 0.5.9, 0.6.x meteor versions
+This package is no longer maintained. Please use https://atmospherejs.com/cfs/graphicsmagick instead.
